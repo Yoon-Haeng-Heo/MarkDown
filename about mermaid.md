@@ -1,7 +1,7 @@
 # 2020 summer
 
 
-### *draw flow chart use markdown with mermaid
+### *draw flow chart use markdown with mermaid(this code will be shown GitLab...not github)
 ```mermaid
 graph TD
   start[Start some function]
