@@ -169,3 +169,51 @@ BREAK!
 출처 : https://heropy.blog/2017/09/30/markdown/
 
 but made by yoonhaeng heo
+
+#### 2020/07/20 추가
+
+### *draw flow chart use markdown with mermaid(this code will be shown GitLab...not github)
+```mermaid
+graph TD
+  start[Start some function]
+  isActive{Is Active?}
+  done[Done]
+  
+  start --> isActive
+  isActive -->|Yes| done
+```
+
+**use this code**
+
+```
+graph TD
+  start[Start some function]
+  isActive{Is Active?}
+  done[Done]
+  
+  start --> isActive
+  isActive -->|Yes| done
+```
+### example of code language ###
+```python
+def a():
+  print("asd")
+```
+
+```kotlin
+fun a() {
+    print("asd")
+}
+```
+
+```xml
+<android>
+  <a>b</a>
+</android>
+```
+
+```html
+<h1>asdf</h1>
+```
+
+
