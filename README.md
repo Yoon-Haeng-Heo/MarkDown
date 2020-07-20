@@ -182,7 +182,7 @@ graph TD
   start --> isActive
   isActive -->|Yes| done
 ```
-shown by image below
+shown by following image<br>
 ![flowchart](https://github.com/Yoon-Haeng-Heo/MarkDown/blob/master/%EC%BA%A1%EC%B2%98.PNG)
 
 **use this code**
